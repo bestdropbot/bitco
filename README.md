@@ -20,6 +20,6 @@ Its performance has been tested many times and the test has been successful.
 💲 App price:
 Full setup + free hosting and domain + 5000 licenses: 950$
 
-🔍 To see a sample app, send me a message on Telegram;👇
+🔍 To see a sample app, send me a message on Telegram;
 🔘 Telegram ID: @Finanet
 🖥️ https://t.me/Finanet
