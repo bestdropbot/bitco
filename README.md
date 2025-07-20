@@ -4,6 +4,10 @@
 
 🖥️ Telegram Web App and Mini App for Bitcoin Wallet Crackers
 
+🔊 Use it yourself and sell licenses to others at the same time.
+
+⏳ Can be used for Bitcoin P2PKH addresses as well as for Bitcoin puzzles.
+
 💰 Sell licenses for yourself or for others to use.
 Ability to create thousands of licenses at your request to sell and earn money.
 You can sell each license for up to 200$ or more.
