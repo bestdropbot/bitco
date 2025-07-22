@@ -28,5 +28,4 @@ Full setup + free hosting and domain + 5000 licenses: 950$
 🔘 Telegram ID: @Finanet
 🖥️ https://t.me/Finanet
 
-![Image](https://github.com/user-attachments/assets/a4d7b817-4e28-4bf8-b6c6-2647c7d9f28a)
-
+![Image](https://github.com/user-attachments/assets/87bc85cf-b2f2-4fad-81fd-ee183eea40e9)
